@@ -6,4 +6,5 @@ A list of some terminal and code cheatsheets that can be useful
 
 * [Git](git/git.md)
 * [Docker](docker/docker.md)
-<!-- * [Terraform](terraform/terraform.git) -->
+* [Terraform](terraform/terraform.md)
+* [Maven](build/maven.md)

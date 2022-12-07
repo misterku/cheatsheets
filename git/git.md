@@ -8,3 +8,14 @@ git switch <other_branch>
 git switch -c <new_branch>
 ```
 
+## Useful terminal git app
+Install [lazygit](https://github.com/jesseduffield/lazygit)
+```
+brew install jesseduffield/lazygit/lazygit
+brew install lazygit
+```
+
+## Reset last commit to unstaged
+```
+git reset HEAD~  
+```
