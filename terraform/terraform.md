@@ -14,5 +14,8 @@ TF_ENABLE_API_LOGGING=1 TF_LOG=debug terraform plan
 terraform apply -var=foo="value_of_foo"
 ```
 
-
+## Destroy resource from tf
+```
+terraform destroy -target RESOURCE_TYPE.NAME -target RESOURCE_TYPE2.NAME
+```
 
